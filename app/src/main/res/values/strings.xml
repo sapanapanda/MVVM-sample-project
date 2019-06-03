@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Space X Rocket</string>
+    <string name="retry">Retry</string>
+    <string name="error">An error occurred while loading data.</string>
+</resources>
